@@ -101,3 +101,4 @@ The frontend is built with React and styled-components for styling. It includes 
 - **ChromeDriver Path**: Ensure the `chromedriver` executable path is correct in the backend code.
 
 ## Created by Ayush Kumar(IIT Kharagpur'25)
+### Demo video : https://drive.google.com/file/d/1fQEO_HSz0_0-Wv3JVtww3oBbmE5CeDQJ/view?usp=sharing
