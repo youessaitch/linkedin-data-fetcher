@@ -100,4 +100,4 @@ The frontend is built with React and styled-components for styling. It includes 
 - **LinkedIn Credentials**: Replace the placeholder email and password in the `get_linkedin_data` function with valid LinkedIn credentials.
 - **ChromeDriver Path**: Ensure the `chromedriver` executable path is correct in the backend code.
 
-##created by Ayush Kumar(IIT Kharagpur'25)
+## Created by Ayush Kumar(IIT Kharagpur'25)
