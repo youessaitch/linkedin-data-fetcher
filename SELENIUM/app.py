@@ -20,10 +20,10 @@ def get_linkedin_data(company):
     time.sleep(5)
 
     username = driver.find_element(By.ID, "username")
-    username.send_keys("exquisitedumbledore@gmail.com")
+    username.send_keys("your username/email address")
     
     pword = driver.find_element(By.ID, "password")
-    pword.send_keys("Password007768")
+    pword.send_keys("your password")
     driver.find_element(By.CSS_SELECTOR, 'button.btn__primary--large').click()
 
     # Wait for manual OTP entry
